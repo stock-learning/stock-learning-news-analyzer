@@ -1,7 +1,4 @@
-
 import boto3
-import csv
-import json
 
 # Comprehend constant
 region = 'us-east-2'
